@@ -96,4 +96,4 @@ Berikan ⭐ di repo ini jika membantu, atau bergabung ke grup diskusi WhatsApp:
 
 > [𝗟𝗶𝗻𝗸 𝗖𝗵𝗮𝗻𝗻𝗲𝗹](https://whatsapp.com/channel/0029Vb5vz4oDjiOfUeW2Mt03)
 
-> [𝗟𝗶𝗻𝗸 𝗚𝗿𝗼𝘂𝗽](https://chat.whatsapp.com/J9DANHhVooxDslMY6Emjhi()
+> [𝗟𝗶𝗻𝗸 𝗚𝗿𝗼𝘂𝗽](https://chat.whatsapp.com/J9DANHhVooxDslMY6Emjhi)
