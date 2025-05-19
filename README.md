@@ -1,11 +1,11 @@
-# Base WhatsApp Bot - CJS
+# Base WhatsApp Bot
 
 <p align="center">
   <img src="https://i.supa.codes/kyWCSZ" width="300" alt="Baileys WhatsApp API">
 </p>
 
 <p align="center">
-  <b>Base Bot WhatsApp Multi-Device</b> berbasis <code>CommonJS</code> dan <code>Baileys (naruyaizumi)</code>.  
+  <b>Base Bot WhatsApp</b> berbasis <code>CommonJS</code> dan <code>Baileys</code>.  
   Ringan, bersih, modular. Cocok untuk pemula maupun developer bot berpengalaman.
 </p>
 
@@ -55,18 +55,18 @@ module.exports = {
 
 ```
 base-cjs/
-├── config.js               # Konfigurasi bot
-├── index.js                # Entry point utama
+├── config.js  # Konfigurasi bot
+├── index.js  # Entry point utama
 ├── lib/
-│   └── msg.js              # smsg dan serialize
-├── handler.js              # Command base dan ping
-├── session/                # File autentikasi
-└── package.json            # Dependensi dan metadata
+│   └── msg.js  # smsg dan serialize
+├── handler.js  # Command base dan ping
+├── session/  # File autentikasi
+└── package.json  # Dependensi dan metadata
 ```
 
-## 🧠 Teknologi yang Digunakan
+## 🧠 Paket yang Digunakan
 
-- [Baileys (naruyaizumi fork)](https://github.com/naruyaizumi/baileys) - WhatsApp Web API berbasis socket
+- [Baileys](https://github.com/naruyaizumi/baileys) - WhatsApp Web API berbasis socket
 - [Pino](https://github.com/pinojs/pino) - Logger minimalis
 - [file-type](https://github.com/sindresorhus/file-type) - Deteksi MIME otomatis
 
