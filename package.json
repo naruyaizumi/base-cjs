@@ -1,0 +1,18 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "description": "naruyaizumi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "naruyaizumi"
+  ],
+  "author": "naruyaizumi",
+  "dependencies": {
+    "baileys": "npm:naruyaizumi",
+    "file-type": "^20.5.0",
+    "pino": "^9.7.0"
+  }
+}
